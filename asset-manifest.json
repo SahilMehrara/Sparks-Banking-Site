@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sparks-Banking-Site/static/css/main.a17f6bc8.css",
+    "main.js": "/Sparks-Banking-Site/static/js/main.9888d079.js",
+    "static/js/787.57e7c158.chunk.js": "/Sparks-Banking-Site/static/js/787.57e7c158.chunk.js",
+    "static/media/sl_121021_47240_16.jpg": "/Sparks-Banking-Site/static/media/sl_121021_47240_16.e3905efcecdba0a0033b.jpg",
+    "index.html": "/Sparks-Banking-Site/index.html",
+    "main.a17f6bc8.css.map": "/Sparks-Banking-Site/static/css/main.a17f6bc8.css.map",
+    "main.9888d079.js.map": "/Sparks-Banking-Site/static/js/main.9888d079.js.map",
+    "787.57e7c158.chunk.js.map": "/Sparks-Banking-Site/static/js/787.57e7c158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17f6bc8.css",
+    "static/js/main.9888d079.js"
+  ]
+}
